@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Places you've been</title>
+        <link rel="stylesheet" href="styles/styles.css">
+    </head>
+    <body>
+        <h1>Places I've been</h1>
+        <p>This website keeps a track of all places you've visited by clicking on a place's name.</p>
+        <p> Users can input location, landmarks, the time they visited, and tasks they completed. The app then displays the information after submitting.</p>
+        <section>
+            <form id="places-form">
+                <label for="location">Location:</label>
+                <input type="text" id="location" required>
+                <label for="landmarks">Landmarks:</label>
+                <input type="text" id="landmarks" required>
+                <label for="time">Time:</label>
+                <input type="date"  id="time" required>
+                <label for="tasks">Tasks:</label>
+                <input type="text"  id="tasks" required>
+                <button type="submit" id="button">Show Place</button>
+            </form>
+            <div id="show-places"></div>
+        </section>
+        <script src="./src/script.js"></script>
+    </body>
+</html>
