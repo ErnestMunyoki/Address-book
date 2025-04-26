@@ -5,6 +5,7 @@ Users can input a location, landmarks, the time they visited, and tasks they com
 The app then displays the information after submitting.
 
 🚀 How to Set Up
+
 Clone or download this repository.
 
 Open the index.html file in your web browser.
@@ -12,6 +13,7 @@ Open the index.html file in your web browser.
 Start adding your visited places!
 
 🧪 Business Logic Tests
+
 The business logic was manually tested:
 
 Confirmed that the address constructor correctly stores location, landmarks, time, and tasks.
