@@ -21,6 +21,7 @@ Confirmed that the address constructor correctly stores location, landmarks, tim
 Confirmed that the description() function returns a string combining all properties.
 
 💻 Technologies Used
+
 HTML
 
 CSS
