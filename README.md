@@ -1,4 +1,5 @@
 📍 Places I've Been
+
 Places I've Been is a simple web app where users can keep track of all the places they have visited.
 Users can input a location, landmarks, the time they visited, and tasks they completed.
 The app then displays the information after submitting.
