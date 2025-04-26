@@ -26,12 +26,15 @@ CSS
 JavaScript
 
 📝 License
+
 This project is licensed under the MIT License.
 
 ©️ Copyright
+
 © 2025 Places I've Been. All rights reserved.
 
 📬 Contact
+
 For inquiries, you can reach out to:
 
 Email: places.been@gmail.com
